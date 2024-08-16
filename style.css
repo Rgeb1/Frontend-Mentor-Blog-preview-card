@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+/* Base styling and image top*/
+body {
+  background-color: hsl(47, 88%, 63%);
+  font-size: 1.6rem;
+  line-height: 1.4;
+  font-family: "Figtree", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container {
+  margin: 1.5rem 0;
+  max-width: 410px;
+  background-color: white;
+  padding: 2.3rem;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 9px 9px ;
+}
+
+.img-banner img {
+  border-radius: 12px;
+  width: 360px;
+}
+
+/* All the text */
+h2 {
+  display: inline-block;
+  background-color: hsl(47, 88%, 63%);
+  padding: 0.4rem 1.2rem;
+  border-radius: 5px;
+  font-weight: 800;
+  font-size: 1.6rem;
+}
+
+span {
+  display: block;
+  color: hsl(0, 0%, 7%);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.6rem;
+  font-weight: 800;
+}
+
+h1:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+p {
+  color: hsl(0, 0%, 42%);
+  font-weight: 500;
+}
+
+/* Profile image and name */
+.user-img-name {
+  display: flex;
+  align-items: center;
+}
+
+.user-img-name img {
+  width: 40px;
+  height: 40px;
+  margin-right: 1.5rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+  font-weight: 800;
+}
+
+.attribution { 
+  font-size: 11px; 
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%);
+}
+
+/* Media queries */
+@media screen and (max-width: 500px) {
+  
+  .img-banner img {
+    width: 334px;
+  }
+
+  main {
+    width: 380px;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  
+  .img-banner img {
+    width: 249px;
+  }
+
+  main {
+    width: 280px;
+  }
+
+  .container {
+    padding: 1.5rem;
+    line-height: 1.3;
+  }
+}
