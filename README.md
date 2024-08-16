@@ -29,7 +29,7 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [
-Frontend-Mentor-Blog-preview-card]
+[Add live site here](https://blog-preview-card-psi-flax.vercel.app/)]
 
 
 ### Built with
