@@ -27,16 +27,17 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [(https://rgeb1.github.io/Frontend-Mentor-Blog-preview-card/)]
+- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-html-and-css-C_OW7t8qwx)
+- Live Site URL: [](https://rgeb1.github.io/Frontend-Mentor-Blog-preview-card/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Grid
 
 ## Author
 
-- Frontend Mentor - [@Rgeb1](https://www.frontendmentor.io/profile/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername)
+- [GitHub](https://github.com/Rgeb1)
