@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-html-and-css-C_OW7t8qwx)
-- Live Site URL: [](https://rgeb1.github.io/Frontend-Mentor-Blog-preview-card/)
+- Solution URL: [(https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-html-and-css-C_OW7t8qwx)]
+- Live Site URL: [(https://rgeb1.github.io/Frontend-Mentor-Blog-preview-card/)]
 
 
 ### Built with
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- [Frontend Mentor](https://www.frontendmentor.io/profile/yourusername)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Rgeb1))
 - [GitHub](https://github.com/Rgeb1)
